@@ -1,6 +1,6 @@
-**2020**: [GitHub](https://github.com/astropgh/astropgh-boot-camp-2020) | [website](https://astropgh.github.io/astropgh-boot-camp-2020/)
+**2020**: [GitHub](https://github.com/astropgh/astropgh-boot-camp-2020) / [website](https://astropgh.github.io/astropgh-boot-camp-2020/)
 
-**2021**: [GitHub](https://github.com/astropgh/python-boot-camp-2021) | [website](https://astropgh.github.io/python-boot-camp-2021/)
+**2021**: [GitHub](https://github.com/astropgh/python-boot-camp-2021) / [website](https://astropgh.github.io/python-boot-camp-2021/)
 
 Welcome to the 2020 AstroPGH Research Boot Camp and Weekly Seminar Series for summer undergraduate students and early PhD students new to research.  This program is designed to help you learn the basics of research, including coding, statistics, writing, and presenting.
 
